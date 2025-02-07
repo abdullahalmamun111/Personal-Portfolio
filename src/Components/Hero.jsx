@@ -1,7 +1,7 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import image from "../assets/myImage.png";
-import resume from '../assets/Resume.txt'
+import resume from '../assets/Abdullah Resume (1).pdf'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin, faTwitter, faFacebook } from "@fortawesome/free-brands-svg-icons";
 
