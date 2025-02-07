@@ -1,0 +1,49 @@
+﻿Abdullah Al Mamun  
+Junior Web Developer
+________________
+
+
+About Me
+Hello! I am Abdullah Al Mamun, a passionate and aspiring Junior Web Developer currently studying at Dinajpur Polytechnic Institute. My journey into web development has been fueled by my curiosity and dedication to learning modern technologies. I am a proud member of the Programming Hero community, actively enhancing my skills and knowledge to create interactive and user-friendly web applications.
+________________
+
+
+Contact Information
+* Email: abdullah.almamun@example.com
+* Phone: +8801835-371391
+* Location: Dinajpur, Bangladesh
+*                                      LinkedIn : https://www.linkedin.com/in/abdullah-al-mamun-185b12317/
+* GitHub: https://github.com/abdullahalmamun111
+________________
+
+
+Skills
+* Front-End Development: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+* Back-End Development: Node.js (Basics), MongoDB (Basics)
+* Version Control: Git, GitHub
+* UI Libraries: DaisyUI, Bootstrap
+* Responsive Design: Cross-browser compatibility and mobile-first approach
+________________
+
+
+Education
+Diploma in Engineering (Ongoing)
+Dinajpur Polytechnic Institute
+Field of Study: Computer Technology
+________________
+
+
+Projects
+1. Portfolio Website (In Progress)
+
+   * A personal portfolio showcasing my skills, projects, and contact information.
+   * Technologies Used: React.js, Tailwind CSS
+   2. Crowdfunding Platform (Learning Phase)
+
+      * Developing a platform for personal, creative, and startup project funding as a part of my Programming Hero course.
+      * Technologies Used: MongoDB, React, Tailwind CSS
+________________
+
+
+Career Objective
+To contribute as a Junior Web Developer in a dynamic team where I can apply my skills and continue to grow professionally. I aim to develop efficient, user-focused web applications while learning from experienced mentors.
