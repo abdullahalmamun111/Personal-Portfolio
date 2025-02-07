@@ -9,13 +9,13 @@
 Welcome to my **Personal Portfolio**! 🎨 Here you can explore my projects, skills, and experience as a developer.
 
 ## 🔗 **Live Demo**
-[🌍 View My Portfolio](https://your-portfolio-live-link.com)
+[🌍 View My Portfolio](abdullah-portfolio-602767.surge.sh)
 
 ## 📸 **Screenshots**
 
 | Home Page | Projects Page |
 |-----------|--------------|
-| ![Home](https://via.placeholder.com/400x250?text=Home+Page) | ![Projects](https://via.placeholder.com/400x250?text=Projects+Page) |
+| ![Home](https://i.imgur.com/iBnbukS.png/400x250?text=Home+Page) | ![Projects](https://i.imgur.com/XtmiIk5.png/400x250?text=Projects+Page) |
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** React.js, Tailwind CSS, DaisyUI
@@ -46,11 +46,11 @@ Welcome to my **Personal Portfolio**! 🎨 Here you can explore my projects, ski
 ## 🚀 **Getting Started**
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/abdullahalmamun111/Personal-Portfolio.git
 ```
 ### 2️⃣ Install Dependencies
 ```sh
-cd your-portfolio
+cd Personal-Portfolio
 npm install
 ```
 ### 3️⃣ Run the Project
@@ -62,8 +62,8 @@ npm run dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
 
-🔹 **Email:** your-email@example.com  
-🔹 **Portfolio:** [your-portfolio-live-link.com](https://your-portfolio-live-link.com)
+🔹 **Email:** almamun602767@gmail.com  
+🔹 **Portfolio:** [your-portfolio-live-link.com](https://abdullah-portfolio-602767.surge.sh/)
 
 ---
 ⭐ **If you like my portfolio, don't forget to give a star!** ⭐
