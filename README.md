@@ -1,4 +1,4 @@
-![Portfolio Banner](https://via.placeholder.com/1200x400?text=Your+Portfolio+Banner)
+![Portfolio Banner](https://i.imgur.com/iBnbukS.png/1200x400?text=Your+Portfolio+Banner)
 
 # 🌟 Personal Portfolio 🚀
 
